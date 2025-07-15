@@ -4,6 +4,8 @@
 
 Desenvolvido por **Ellen Monroe** e **Alysson Rodrigues**.
 
+📚 [Acesse a documentação completa da Docsy](https://github.com/seu-usuario/gitfronts/wiki)
+
 ---
 
 ## 🚧 Status Atual
