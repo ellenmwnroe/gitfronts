@@ -4,7 +4,7 @@
 
 Desenvolvido por **Ellen Monroe** e **Alysson Rodrigues**.
 
-📚 [Acesse a documentação completa da Docsy](https://github.com/seu-usuario/gitfronts/wiki)
+📚 [Acesse a documentação completa da Docsy](https://github.com/ellenmwnroe/gitfronts/wiki)
 
 ---
 
